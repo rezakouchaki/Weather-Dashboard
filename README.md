@@ -35,7 +35,7 @@ Check another live site [Host by Github](https://rezakouchaki.github.io/Weather-
 
 **Deployment**
 
-Git Hub Link :
+Git Hub Link : https://github.com/rezakouchaki/Weather-Dashboard
 
 Website Link : https://rezakouchaki.github.io/Weather-Dashboard/
 
