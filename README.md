@@ -33,5 +33,11 @@ Check another live site [Host by Github](https://rezakouchaki.github.io/Weather-
 
 ![Capt1ure](https://user-images.githubusercontent.com/22257930/87544779-a4dc1d80-c6c4-11ea-9904-e7d3ca268f66.PNG)
 
+**Deployment**
+
+Git Hub Link :
+
+Website Link : https://rezakouchaki.github.io/Weather-Dashboard/
+
 Developed by: **Reza Kouchaki**
 
