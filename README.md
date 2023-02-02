@@ -25,13 +25,13 @@ Check out live site [WeatherDashboard](https://rezakouchaki.github.io/Weather-Da
 Check another live site [Host by Github](https://rezakouchaki.github.io/Weather-Dashboard/)
 
 ### Screenshots:
-1. Run file index.html
+1. Run file 
 
-![Capture](https://user-images.githubusercontent.com/22257930/87544595-5af33780-c6c4-11ea-9005-5978cb713556.PNG)
+index.html![page1](https://user-images.githubusercontent.com/114640427/216396237-7bff3d20-141c-4f06-9804-448cb9019361.png)
 
 2. Enter any city
 
-![Capt1ure](https://user-images.githubusercontent.com/22257930/87544779-a4dc1d80-c6c4-11ea-9904-e7d3ca268f66.PNG)
+![page2](https://user-images.githubusercontent.com/114640427/216396325-325bffae-fb50-4eb7-8e19-78648456de8f.png)
 
 **Deployment**
 
