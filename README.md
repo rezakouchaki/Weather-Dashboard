@@ -27,7 +27,7 @@ Check another live site [Host by Github](https://rezakouchaki.github.io/Weather-
 ### Screenshots:
 1. Run file 
 
-index.html![page1](https://user-images.githubusercontent.com/114640427/216396237-7bff3d20-141c-4f06-9804-448cb9019361.png)
+![page1](https://user-images.githubusercontent.com/114640427/216396237-7bff3d20-141c-4f06-9804-448cb9019361.png)
 
 2. Enter any city
 
